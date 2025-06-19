@@ -11,7 +11,7 @@
 </script>
 
 <CenteredTextOnlyHero
-	title="Good Morning"
+	title="Guten Morgen"
 	subtitle=""
 	imageSrc="/generated/image-a-serene-park-scene-with-people-enjoying.webp"
 />
