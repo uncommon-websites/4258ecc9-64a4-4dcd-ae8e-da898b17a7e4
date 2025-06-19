@@ -11,8 +11,8 @@
 </script>
 
 <CenteredTextOnlyHero
-	title="Tough jobs. Smarter machines."
-	subtitle="sensmore turns heavy machinery into intelligent, site-aware systems that boost productivity and safety in the harshest conditions."
+	title="Good Morning"
+	subtitle=""
 	imageSrc="/generated/image-a-serene-park-scene-with-people-enjoying.webp"
 />
 <LogoScroller 
